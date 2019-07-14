@@ -14,7 +14,7 @@ def var():
     # v2 = 0
     varz = ["d", "t", "a", "v", "v2"]
     for var in varz:
-        exec(var + "=5")
+        exec(var + "=0")
 
 
 def fun(num):
