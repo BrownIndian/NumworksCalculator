@@ -7,14 +7,11 @@ count = 0
 
 
 def var():
-    # d = 0
-    # t = 0
-    # a = 0
-    # v = 0
-    # v2 = 0
-    varz = ["d", "t", "a", "v", "v2"]
-    for var in varz:
-        exec(var + "=0")
+    d = 0
+    t = 0
+    a = 0
+    v = 0
+    v2 = 0
 
 
 def fun(num):
